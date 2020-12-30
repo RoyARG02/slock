@@ -1,0 +1,4 @@
+slock
+*.orig
+*.ref
+*.o

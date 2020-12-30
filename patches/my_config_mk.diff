@@ -1,0 +1,11 @@
+--- config.mk	2020-12-30 17:58:31.548302280 +0530
++++ config.mk	2020-12-30 17:58:42.111346997 +0530
+@@ -4,7 +4,7 @@
+ # Customize below to fit your system
+ 
+ # paths
+-PREFIX = /usr/local
++PREFIX = /usr
+ MANPREFIX = ${PREFIX}/share/man
+ 
+ X11INC = /usr/X11R6/include
